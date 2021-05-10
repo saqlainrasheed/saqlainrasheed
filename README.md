@@ -1,4 +1,4 @@
-### Hi there 👋, My name is **"Saqlain"**
+# Hi there 👋, My name is **"Saqlain"**
 #### Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGRO-4h75_lAw/profile-displaybackgroundimage-shrink_200_800/0/1610177433059?e=1626307200&v=beta&t=0UcyQiGIOX117qrlq76v_IXyaAx8TO082xUCJoRsAWc)
 
@@ -17,5 +17,3 @@ Skills:  React JS - Node JS - JavaScript - Python - PostgreSQL - MongoDB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saqlainrasheed&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saqlainrasheed)  
-
-![Profile views](https://gpvc.arturio.dev/saqlainrasheed)  
