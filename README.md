@@ -1,10 +1,11 @@
 # Hi there 👋, My name is **"Saqlain"**
 ---
-I'm a web developer who is passionate about problem solving and development. You can check out my project:
--- [Smart_Brain](https://smart-brain-1992.herokuapp.com/) - MERN Stack
--- [Netflix_Clone](https://netflix-clone681.netlify.app/) - React Js
--- [Portfolio_Template](https://saqlainrasheed.github.io) - HTML/CSS
--- [Travel_Agency_LandingPage](https://objective-jackson-035def.netlify.app) - HTML/CSS 
+I'm a web developer who is passionate about problem solving and development. My Side projects
+
+-- [Smart_Brain](https://smart-brain-1992.herokuapp.com/) - MERN Stack <br />
+-- [Netflix_Clone](https://netflix-clone681.netlify.app/) - React Js <br />
+-- [Portfolio_Template](https://saqlainrasheed.github.io) - HTML/CSS <br />
+-- [Travel_Agency_LandingPage](https://objective-jackson-035def.netlify.app) - HTML/CSS  <br />
 
 Skills:  React JS - Node JS - JavaScript - Python - PostgreSQL - MongoDB
 
