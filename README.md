@@ -14,5 +14,3 @@ Skills:  React JS - Node JS - JavaScript - Python - PostgreSQL - MongoDB
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@Saqlain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saqlain-r/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saqlainrasheed&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saqlainrasheed)  
