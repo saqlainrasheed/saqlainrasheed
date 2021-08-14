@@ -1,6 +1,6 @@
 # Hi there 👋, My name is **"Saqlain"**
 ---
-I'm a web developer who is passionate about problem solving and development. My Side projects
+I'm a web developer, and checkout my side projects
 
 -- [Smart_Brain](https://smart-brain-1992.herokuapp.com/) - MERN Stack <br />
 -- [Netflix_Clone](https://netflix-clone681.netlify.app/) - React Js <br />
